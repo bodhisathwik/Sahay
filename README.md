@@ -19,7 +19,7 @@ Key Features
 
 🌗 Sleek, Responsive UI with Dark Mode: A beautiful, modern, and accessible user interface that works flawlessly on all devices and includes a theme toggle for user comfort.
 
-live: https://sahay-8f6uz4asv-sathwiks-projects-03101a36.vercel.app
+live: https://sahay-five.vercel.app/home
 
 🛠️ Tech Stack
 Frontend: React, Tailwind CSS
